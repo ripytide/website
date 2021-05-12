@@ -1,0 +1,6 @@
+[submodule "checky"]
+	path = checky
+	url = https://github.com/ripytide/checky
+[submodule "audio-network"]
+	path = audio-network
+	url = https://github.com/ripytide/audio-network
